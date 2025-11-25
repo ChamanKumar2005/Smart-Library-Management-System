@@ -31,16 +31,20 @@
 
 ## 🖥️ Screenshots
 
-- 📌 Staring Page
+- 📌 STARTING PAGE
+
   ![start](https://github.com/user-attachments/assets/ceae99d7-f9f4-4259-a82a-d5c3cfa26104)
 
-- 📌 Login Page
+- 📌 LOGIN PAGE
+
  ![login](https://github.com/user-attachments/assets/a470df6e-c87d-49a6-a260-2657a48cb88f)
 
-- 📌 Dashboard
+- 📌 DASHBOARD
+
   ![dashboard](https://github.com/user-attachments/assets/c0df037b-2856-47d3-b06c-9960d89c4076)
 
 - 📌 Book Issue/Return Interface
+
   ![issue-return](https://github.com/user-attachments/assets/3685bfbd-125b-46f7-8d79-28ff04996c9b)
 
 ---
