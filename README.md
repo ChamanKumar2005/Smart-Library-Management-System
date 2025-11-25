@@ -53,7 +53,7 @@
 ## 🛠️ How to Run the Project
 
 1. **Clone the Repository**  
-git clone https://github.com/adityanaithani1/Bibliotek-Library-Management-System.git
+git clone https://github.com/ChamanKumar2005/Online-Library-Management-System.git
 
 2. **Open in IDE (Eclipse/IntelliJ)**  
 - Import as a Java project.
